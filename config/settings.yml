@@ -1,0 +1,4 @@
+config/settings.ymlplugins:
+  discourse_m3u8_video_enabled:
+    default: true
+    client: true
